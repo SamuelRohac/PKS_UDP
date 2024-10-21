@@ -1,2 +1,3 @@
 # PKS_UDP
-semestralny projekt PKS
+zaloha pre semestralny projekt PKS
+Autor: Samuel Rohac 
